@@ -1,5 +1,15 @@
 ### <h1 align="center">Hey 👋, I'm iSweat</h1>
 
+
+Contact with me :
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SOON..." height="30" width="40" /></a>
+
+
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋, je suis iSweat
 
 Here are some ideas to get you started:
 

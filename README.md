@@ -1,4 +1,4 @@
-### Hey 👋, je suis iSweat
+### <h1 align="center">Hey 👋, je suis iSweat</h1>
 
 Here are some ideas to get you started:
 

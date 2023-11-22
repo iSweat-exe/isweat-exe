@@ -3,12 +3,13 @@
 
 ## Contact with me :
 <p align="left">
-<a href="https://discord.gg/qT6FUzx628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qT6FUzx628" height="30" width="40" /></a>
+  <a href="https://discord.gg/qT6FUzx628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qT6FUzx628" height="30" width="40" /></a>
 </p>
 
 Languages and Tools :
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" width="40" />
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" width="40" />
+</p>
 
 
 

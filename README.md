@@ -1,31 +1,25 @@
-### <h1 align="center">Hey 👋, I'm iSweat</h1>
+# <h1 align="center">Hey 👋, I'm iSweat</h1>
 
-
-## Contact with me :
+## Contact Me 🛰️
 <p align="left">
-  <a href="https://discord.gg/qT6FUzx628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qT6FUzx628" height="30" width="40" /></a>
+  <a href="https://discord.gg/qT6FUzx628" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qT6FUzx628" height="60" width="80" />
+  </a>
 </p>
 
-Languages and Tools :
+## Languages and Tools 👨‍🏫
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" width="80" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="80" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="80" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="80" alt="JavaScript" />
 </p>
 
+## GitHub Stats 📊
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isweat-exe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iSweat's Language Stats"> </br></br></br>
+    <img src="https://github-readme-stats.vercel.app/api?username=isweat-exe&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</div>
 
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Support Me ❤️
+Nothing for the moment.

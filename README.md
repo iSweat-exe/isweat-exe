@@ -1,5 +1,3 @@
-# <h1 align="center">Hey 👋, I'm iSweat</h1>
-
 ## Contact Me 🛰️
 <p>...</p>
 

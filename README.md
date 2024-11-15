@@ -20,6 +20,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isweat-exe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iSweat's Language Stats"> </br></br></br>
     <img src="https://github-readme-stats.vercel.app/api?username=isweat-exe&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </div>
-
-# Support Me ❤️
-Nothing for the moment.

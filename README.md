@@ -1,11 +1,7 @@
 # <h1 align="center">Hey 👋, I'm iSweat</h1>
 
 ## Contact Me 🛰️
-<p align="left">
-  <a href="https://discord.gg/qT6FUzx628" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qT6FUzx628" height="60" width="80" />
-  </a>
-</p>
+<p>...</p>
 
 ## Languages and Tools 👨‍🏫
 <p align="left">

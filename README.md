@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ ModSync v1.2.0<br>✨ StreamTracker v1.0
+✨ ModSync v1.2.0<br>✨ StreamTracker v1.0<br>✨ AESI v2.0
 
 
 ## 🌐 Socials:

@@ -1,26 +1,71 @@
-<h1 align="center">Hi 👋, I'm iSweat</h1>
-
-- 🔭 I’m currently working on **AESI V4, Osu!Stats**
-
-- 🌱 I’m currently learning **JavaScript, Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/iSweat-exe?tab=repositories](https://github.com/iSweat-exe?tab=repositories)
-
-- 📫 How to reach me **Discord : isweatmc**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/isweat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="isweat" height="30" width="40" /></a>
-<a href="https://dev.to/isweat_mc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="isweat_mc" height="30" width="40" /></a>
+<h1 align="center">👋 Hi, I'm iSweat!</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iSweat-exe&label=Profile%20visitors&color=000000&style=for-the-badge" alt="visitors" />
+  <img src="https://img.shields.io/github/followers/isweat-exe?label=Followers&style=for-the-badge&color=black" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSweat&show_icons=true&theme=radical)
+## 🚀 About Me
+```javascript
+const iSweat = {
+    name: "iSweat",
+    role: "Frontend Developer",
+    currentProjects: ["AESI V4", "Osu!Stats"],
+    learning: ["JavaScript", "Python", "Node.js"],
+    interests: ["Coding", "Open Source", "OSU!"],
+    contact: "Discord: isweatmc"
+};
+```
 
-# [] - Current Projects
+## 🎯 Current Projects
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iSweat-exe&repo=AESI-V4&theme=dark&hide_border=true" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iSweat-exe&repo=Osu-Stats&theme=dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<a href="https://github.com/isweat-exe">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=isweat-exe&size_weight=0.5&count_weight=0.5)" />
-</a>
+## 📊 GitHub Statistics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iSweat-exe&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSweat-exe&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iSweat-exe&theme=dark&hide_border=true" />
+</div>
+
+## 🛠️ Tech Stack
+<div align="center">
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=js,python,html,css" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=nodejs" />
+
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql,gcp" />
+
+### Design & Visualization
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+
+</div>
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iSweat-exe&theme=github-compact&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ iSweat</i>
+</div>

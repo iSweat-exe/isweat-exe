@@ -21,4 +21,6 @@
 
 # [] - Current Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isweat-exe&size_weight=0.5&count_weight=0.5)
+<a href="https://github.com/isweat-exe">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=isweat-exe&size_weight=0.5&count_weight=0.5)" />
+</a>

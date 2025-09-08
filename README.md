@@ -19,6 +19,7 @@ const iSweat = {
 ```
 
 ## 🎯 Current Projects
+<!--
 <div align="center">
   <table>
     <tr>
@@ -31,6 +32,8 @@ const iSweat = {
     </tr>
   </table>
 </div>
+-->
+<div align="center"><h1>Soon...</h1></div>
 
 ## 📊 GitHub Statistics
 <div align="center">

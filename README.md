@@ -49,7 +49,7 @@ const iSweat = {
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=nodejs" />

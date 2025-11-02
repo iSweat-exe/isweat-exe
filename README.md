@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi, I'm iSweat!</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iSweat-exe&label=Profile%20visitors&color=000000&style=for-the-badge" alt="visitors" />
@@ -34,6 +35,15 @@ const iSweat = {
 </div>
 -->
 <div align="center"><h1>Soon...</h1></div>
+
+## 💡 Projet à venir / Idée de projet
+- 🤖 **Trading Bot** → Automated crypto/stock trading system with real-time analytics
+- 🎮 **Life!Beat** → A rhythm game powered by your heart rate (BLE / BPM sensor)
+- 🗺️ **UwuGuessr** → A Discord bot inspired by GeoGuessr with location quizzes, challenges, and French leaderboards
+- ❤️ **HeartRate Overlay** → OBS overlay + web dashboard showing live BLE heart-rate data
+- ⚙️ **Royal Kludge R75 Firmware (FR-ISO)** → Custom QMK firmware with full RGB and VIA support for a modded keyboard
+
+*(Chaque idée est un concept en exploration ou en phase de prototypage.)*
 
 ## 📊 GitHub Statistics
 <div align="center">

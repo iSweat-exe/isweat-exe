@@ -43,7 +43,7 @@ const iSweat = {
 - ❤️ **HeartRate Overlay** → OBS overlay + web dashboard showing live BLE heart-rate data
 - ⚙️ **Royal Kludge R75 Firmware (FR-ISO)** → Custom QMK firmware with full RGB and VIA support for a modded keyboard
 
-*(Chaque idée est un concept en exploration ou en phase de prototypage.)*
+*(These projects are still in the idea stage or early development.)*
 
 ## 📊 GitHub Statistics
 <div align="center">

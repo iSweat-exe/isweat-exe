@@ -37,9 +37,6 @@ const iSweat = {
 <div align="center"><h1>Soon...</h1></div>
 
 ## 💡 Projet à venir / Idée de projet
-- 🤖 **Trading Bot** → Automated crypto/stock trading system with real-time analytics
-- 🎮 **Life!Beat** → A rhythm game powered by your heart rate (BLE / BPM sensor)
-- 🗺️ **UwuGuessr** → A Discord bot inspired by GeoGuessr with location quizzes, challenges, and French leaderboards
 - ❤️ **HeartRate Overlay** → OBS overlay + web dashboard showing live BLE heart-rate data
 - ⚙️ **Royal Kludge R75 Firmware (FR-ISO)** → Custom QMK firmware with full RGB and VIA support for a modded keyboard
 
@@ -54,6 +51,8 @@ const iSweat = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iSweat-exe&theme=dark&hide_border=true" />
 </div>
+
+<a href="https://app.daily.dev/isweat"><img src="https://api.daily.dev/devcards/v2/L7oF1e4qdRiF1YHjTjeL5.png?type=default&r=bdx" width="356" alt="iSweat's Dev Card"/></a>
 
 ## 🛠️ Tech Stack
 <div align="center">

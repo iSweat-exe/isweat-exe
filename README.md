@@ -52,6 +52,7 @@ const iSweat = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iSweat-exe&theme=dark&hide_border=true" />
 </div>
 
+## 📊 DailyDev Statistics
 <div align="center">
   <a href="https://app.daily.dev/isweat"><img src="https://api.daily.dev/devcards/v2/L7oF1e4qdRiF1YHjTjeL5.png?type=default&r=bdx" width="356" alt="iSweat's Dev Card"/></a>
 </div>

@@ -8,7 +8,7 @@
 ---
 
 ## 👀 Current Focus
-**NextTabletDriver** is currently my favorite project right now and my most accomplished one i think. 
+**[NextTabletDriver](https://github.com/Next-Tablet-Driver/NextTabletDriver)** is currently my favorite project right now and my most accomplished one i think. 
 
 I have a lot of private repos on GitHub, to be exact i currently have 66 but some of them are available publicly
 

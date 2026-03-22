@@ -28,4 +28,4 @@ Design - Drawing - Programming.. *basically.. I love everything that's creative*
 ---
 
 ## 📬 How you can reach me?
-You con contact me on Discord: **isweatmc**
+You can contact me on Discord: **isweatmc**

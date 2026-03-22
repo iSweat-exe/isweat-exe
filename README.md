@@ -1,5 +1,31 @@
-<h1 align="center">👋 Hi, I'm iSweat!</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iSweat-exe&label=Profile%20visitors&color=000000&style=for-the-badge" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/isweat-exe?label=Followers&style=for-the-badge&color=black" alt="followers" />
-</p>
+# Hey, I'm iSweat 👋
+> I design and build whatever i want as long as the motivation is there (*And that's not really a good thing to be honest*).
+
+## ⚙️ Stack & Tools
+- Main language : Rust & Javascript
+- Favorite tools: Figma - Visual Studio Code - Discord and Notes.
+
+---
+
+## 👀 Current Focus
+**NextTabletDriver** is currently my favorite project right now and my most accomplished one i think. 
+
+I have a lot of private repos on GitHub, to be exact i currently have 66 but some of them are available publicly
+
+## 🎯 Goals for 2026
+- Finish **NextTabletDriver**
+- Learn **After Effects**
+- Make more **public projects**
+
+---
+
+## 🧠 Learning Next
+I'm planning to explore **After Effects** and **Affinity** in the future.
+
+## 💖 What I Love
+Design - Drawing - Programming.. *basically.. I love everything that's creative*.
+
+---
+
+## 📬 How you can reach me?
+You con contact me on Discord: **isweatmc**

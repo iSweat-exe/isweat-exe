@@ -4,6 +4,7 @@
 ## ⚙️ Stack & Tools
 - Main language : Rust & Javascript
 - Favorite tools: Figma - Visual Studio Code - Discord and Notes.
+> I think I can also mention AI in my tools.
 
 ---
 

@@ -21,7 +21,7 @@ I have a lot of private repos on GitHub, to be exact i currently have 66 but som
 ---
 
 ## 🧠 Learning Next
-I'm planning to explore **After Effects** and **Affinity** in the future.
+I'd like to do something artistic, like drawing or 3D.
 
 ## 💖 What I Love
 Design - Drawing - Programming.. *basically.. I love everything that's creative*.

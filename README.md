@@ -14,8 +14,8 @@
 I have a lot of private repos on GitHub, to be exact i currently have 66 but some of them are available publicly
 
 ## 🎯 Goals for 2026
-- Finish **NextTabletDriver**
-- Learn **After Effects**
+- Learn Python ⌛
+- Finish **NextTabletDriver** ⌛/✅
 - Make more **public projects**
 
 ---

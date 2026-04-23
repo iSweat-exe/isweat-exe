@@ -30,3 +30,5 @@ Design - Drawing - Programming.. *basically.. I love everything that's creative*
 
 ## 📬 How you can reach me?
 You can contact me on Discord: **isweatmc**
+
+[![wakatime](https://wakatime.com/badge/user/fccac2f4-c159-4e68-a529-65067da24220.svg)](https://wakatime.com/@fccac2f4-c159-4e68-a529-65067da24220)

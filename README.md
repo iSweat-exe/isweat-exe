@@ -19,10 +19,10 @@
 > I maintain 83 repositories in total, most of them private. I'm gradually opening more of them up as they reach a stable, shareable state.
 
 ## 🎯 Goals for 2026
-*   [ ] Learn Lua ⌛
+*   [ ] Learn Lua (abandoned)
 *   [x] Get comfortable with Python
-*   [ ] Bring **NextTabletDriver** to a polished, stable release ⌛
-*   [ ] Open-source more of my private projects
+*   [ ] Bring **NextTabletDriver** to a polished, stable release (current)
+*   [ ] Open-source more of my private projects (soon)
 
 ## 🔰 Learned This Year
 *   [x] Python fundamentals

@@ -1,43 +1,43 @@
 # Hey, I'm iSweat 👋
-> I design and build whatever i want as long as the motivation is there *(and that's not really a good thing to be honest)*.
+> Developer focused on low-level, hands-on projects. I build things I'm genuinely invested in, with an emphasis on quality over quantity.
 
 ## ⚙️ Stack & Tools
 *   **Languages:** Rust, Go, Python
-*   **Design & Dev:** Figma, Zed Editor, VS Code
-*   **Daily Drivers:** Discord, Notion / Notes, and AI assistance
+*   **Design & Dev:** Figma, VS Code
+*   **Daily Drivers:** Discord, Notion / Notes, and AI-assisted workflows
 
 > [!NOTE]
-> **I'm low-key obsessed with Reverse Engineering.** I have a massive soft spot for tearing things apart and understanding how they work under the hood.
+> **I have a strong interest in reverse engineering** I enjoy digging into how hardware and software work under the hood.
 > 
-> *⚡ **Current Quest:** Currently trying to reverse-engineer my **Epomaker 80HE** keyboard!*
+> *⚡ **Current project:** NextTabletDriver Updates
 
 ---
 
 ## 👀 Current Focus
-**[NextTabletDriver](https://github.com/Next-Tablet-Driver/NextTabletDriver)** is currently my favorite project right now and my most accomplished one i think. 
+**[NextTabletDriver](https://github.com/Next-Tablet-Driver/NextTabletDriver)** is my flagship project and the one I'm most proud of.
 
-> I have a lot of private repos on GitHub, to be exact i currently have 83 but some of them are available publicly
+> I maintain 83 repositories in total, most of them private. I'm gradually opening more of them up as they reach a stable, shareable state.
 
 ## 🎯 Goals for 2026
 *   [ ] Learn Lua ⌛
-*   [x] Get comfortable with Python ✅
-*   [ ] Bring **NextTabletDriver** to its final, polished version ⌛
-*   [ ] Open-source more of my private projects ❌ *(failing this one right now)*
+*   [x] Get comfortable with Python
+*   [ ] Bring **NextTabletDriver** to a polished, stable release ⌛
+*   [ ] Open-source more of my private projects
 
 ## 🔰 Learned This Year
-*   [x] Python (Basics)
+*   [x] Python fundamentals
 
 ---
 
 ## 🧠 Learning Next
-I'd like to do something artistic, like drawing or 3D.
+Expanding into more creative disciplines, such as drawing and 3D modeling, to complement my technical work.
 
 ## 💖 What I Love
-Design • Drawing • Programming... *basically, I love absolutely everything that's creative.*
+Design • Drawing • Programming... I'm drawn to creative work in all its forms.
 
 ---
 
 ## 📬 How you can reach me?
-The quickest way to chat or roast my code is on Discord: **isweatmc**
+The best way to reach me is on Discord: **isweatmc**
 
 [![wakatime](https://wakatime.com/badge/user/fccac2f4-c159-4e68-a529-65067da24220.svg)](https://wakatime.com/@fccac2f4-c159-4e68-a529-65067da24220)

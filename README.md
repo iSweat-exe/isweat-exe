@@ -4,10 +4,10 @@
 
 A high-performance user-mode drawing tablet driver written in Rust, designed to minimize input lag. A modern alternative to OpenTabletDriver.
 
-<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Website</a> ·
-<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Download</a> ·
-<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Docs</a> ·
-<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Contribute</a> ·
+<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Website</a> •
+<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Download</a> •
+<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Docs</a> •
+<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Contribute</a> •
 <a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Release Notes</a>
 
   <p>

@@ -1,6 +1,6 @@
 <img src="./logo.png" align="left" width="200"/>
 
-## NextTabletDriver
+### NextTabletDriver
 
 A high-performance user-mode drawing tablet driver written in Rust, designed to minimize input lag. A modern alternative to OpenTabletDriver.
 

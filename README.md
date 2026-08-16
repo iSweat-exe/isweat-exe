@@ -19,7 +19,6 @@ A high-performance user-mode drawing tablet driver written in Rust, designed to 
     </a>
     <img alt="Platforms" src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
-    <img alt="Rust" src="https://img.shields.io/badge/rust-1.97.1%2B-orange">
   </p>
 
 ---

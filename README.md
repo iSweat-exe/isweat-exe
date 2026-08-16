@@ -34,7 +34,7 @@ A high-performance user-mode drawing tablet driver written in Rust, designed to 
 > [!NOTE]
 > **I have a strong interest in reverse engineering** I enjoy digging into how hardware and software work under the hood.
 > 
-> ⚡ **Current project:** NextTabletDriver Updates
+> **Current project:** NextTabletDriver Updates
 
 ---
 

@@ -1,3 +1,29 @@
+<img src="./logo.png" align="left" width="200"/>
+
+### `NextTabletDriver`
+
+A high-performance user-mode drawing tablet driver written in Rust, designed to minimize input lag. A modern alternative to OpenTabletDriver.
+
+<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Website</a> ·
+<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Download</a> ·
+<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Docs</a> ·
+<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Contribute</a> ·
+<a href="https://github.com/Next-Tablet-Driver/NextTabletDriver">Release Notes</a>
+
+  <p>
+    <a href="https://github.com/Next-Tablet-Driver/NextTabletDriver/releases">
+      <img alt="Releases" src="https://img.shields.io/github/v/release/Next-Tablet-Driver/NextTabletDriver?include_prereleases&label=release">
+    </a>
+    <a href="https://github.com/Next-Tablet-Driver/NextTabletDriver/actions/workflows/rust-quality-check.yml">
+      <img alt="CI/CD" src="https://github.com/Next-Tablet-Driver/NextTabletDriver/actions/workflows/rust-quality-check.yml/badge.svg">
+    </a>
+    <img alt="Platforms" src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
+    <img alt="Rust" src="https://img.shields.io/badge/rust-1.97.1%2B-orange">
+  </p>
+
+---
+
 # Hey, I'm iSweat 👋
 > Developer focused on low-level, hands-on projects. I build things I'm genuinely invested in, with an emphasis on quality over quantity.
 

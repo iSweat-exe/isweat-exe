@@ -44,7 +44,6 @@ A high-performance user-mode drawing tablet driver written in Rust, designed to 
 > I maintain 83 repositories in total, most of them private. I'm gradually opening more of them up as they reach a stable, shareable state.
 
 ## 🎯 Goals for 2026
-*   [ ] Learn Lua (abandoned)
 *   [x] Get comfortable with Python
 *   [ ] Bring **NextTabletDriver** to a polished, stable release (current)
 *   [ ] Open-source more of my private projects (soon)
